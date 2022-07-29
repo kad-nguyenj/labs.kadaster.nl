@@ -219,7 +219,7 @@ Dit is de Labs omgeving van het Kadaster. Deze Labs website gebruiken wij om de 
     </div>
   </a>
   -->
-  <a href="/cases/validatiemethode">
+  <a href="/cases/Validatiemethode">
     <div class="card">
       <div class="card-type">Use Case</div>
       <img class="card-image" src="/assets/images/validatiemethode/proces.jpg" alt="Proces">
